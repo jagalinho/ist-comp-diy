@@ -1,0 +1,3 @@
+public integer grosa(integer a) {
+    grosa := a - 144
+};

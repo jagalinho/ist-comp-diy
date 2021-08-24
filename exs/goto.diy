@@ -1,0 +1,9 @@
+public void prints(string s)
+public void println()
+public integer entry (integer argc, string *argv, string *envp) {
+    start:
+    prints("start")
+    public void println()
+    goto start
+    entry := 0;
+};

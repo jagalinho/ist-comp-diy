@@ -1,0 +1,8 @@
+public integer grosa(integer a)
+public void printi(integer i)
+public void println()
+public integer entry (integer argc, string *argv, string *envp) {
+    printi(grosa(150))
+    println()
+    entry := 0
+};
